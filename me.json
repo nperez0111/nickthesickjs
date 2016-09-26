@@ -10,7 +10,7 @@
     },
     "coolness": "Number.MAX_VALUE+1",
     "profession": "Programmer, Front End Developer, Professional Geek out over the newest Tech Thing.",
-    "languages": [ "HTML", "(S)CSS", "JavaScript", "PHP", "Bash", "Java", "C++" ],
+    "languages": [ "HTML", "(S)CSS", "JavaScript", "PHP", "Bash", "Java", "C++", "C", "SVG" ],
     "libraries": {
         "PHP": [ "Simple Dom" ],
         "JavaScript": [ "RactiveJS", "jQuery", "FullPage.js", "Page.js", "Chartist.js", "Masonry.js", "Bootstrap-Remarkable-Notify", "jQuery-MockJax" ],
