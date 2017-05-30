@@ -13,7 +13,7 @@
     "languages": [ "HTML", "(S)CSS", "JavaScript", "PHP", "Bash", "Java", "C++", "C", "SVG" ],
     "libraries": {
         "PHP": [ "Simple Dom" ],
-        "JavaScript": [ "RactiveJS", "jQuery", "FullPage.js", "Page.js", "Chartist.js", "Masonry.js", "Bootstrap-Remarkable-Notify", "jQuery-MockJax" ],
+        "JavaScript": [ "React", "Redux", "RactiveJS", "jQuery", "FullPage.js", "Page.js", "Chartist.js", "Masonry.js", "Bootstrap-Remarkable-Notify", "jQuery-MockJax" ],
         "Node": [ "lodash", "Command-Line-Args", "Command-Line-Usage" ],
         "HTML": [ "Mustache" ],
         "(S)CSS": [ "Bootstrap", "Hint.css", "Animate.css" ]
@@ -23,9 +23,9 @@
         "JavaScriptStuff": [ "Yeoman", "Mocha", "Grunt" ],
         "command-line": {
             "useful": true,
-            "shell": "bash (to keep it simple)",
+            "shell": [ "zsh", "bash (on windows)" ],
             "Windows": "cmder",
-            "Mac": [ "iTerm 2", "HyperTerm" ]
+            "Mac": [ "HyperTerm", "iTerm 2" ]
         }
     }
 }
