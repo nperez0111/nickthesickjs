@@ -1,23 +1,25 @@
 {
-    "name": "nickthesick",
-    "version": "0.0.1",
-    "description": "Nick The Sick The Man Myth and Legend",
-    "main": "index.js",
-    "scripts": {
-        "postinstall": "cat me.json"
-    },
-    "keywords": [
-        "person",
-        "contact"
-    ],
-    "main": "index.js",
-    "author": "Nick The Sick",
-    "license": "ISC",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/nperez0111/nickthesickjs.git"
-    },
-    "bin": {
-        "nickthesick": "bin.js"
-    }
+  "name": "nickthesick",
+  "version": "0.0.1",
+  "description": "Nick The Sick The Man Myth and Legend",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "cat me.json"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "author": "Nick The Sick",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nperez0111/nickthesickjs.git"
+  },
+  "bin": {
+    "nickthesick": "bin.js"
+  },
+  "dependencies": {
+    "terminal-kit": "^1.13.11"
+  }
 }
