@@ -1,32 +1,156 @@
 {
-    "name": "Nick The Sick",
-    "description":"Software Developer & Technologist",
-    "contactInfo": {
-        "website": "http://nickthesick.com",
-        "email": "nperez0111@gmail.com",
-        "twitter": "@nperez0111",
-        "github": "nperez0111",
-        "codepen": "nickthesick",
-        "linkedin": "https://www.linkedin.com/in/nicholas-perez-215262124"
+  "basics": {
+    "name": "Nicholas J. Perez",
+    "label": "Web Developer & Technologist",
+    "picture": "",
+    "email": "nperez0111@gmail.com",
+    "phone": "(305)-282-8358",
+    "website": "https://nickthesick.com",
+    "summary": "",
+    "location": {
+      "address": "San Fransisco, CA",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
-    "profession": "Software Developer, Front End Developer, Professional Geeker outer over the newest Tech Thing.",
-    "languages": [ "HTML", "(S)CSS", "JavaScript", "PHP", "Bash", "Java", "C++", "C", "SVG" ],
-    "libraries": {
-        "PHP": [ "Simple Dom" ],
-        "JavaScript": [ "React", "Redux", "RactiveJS", "jQuery", "FullPage.js", "Page.js", "Chartist.js", "Masonry.js", "Bootstrap-Remarkable-Notify", "jQuery-MockJax" ],
-        "Node": [ "Lodash", "Command-Line-Args", "Command-Line-Usage" ],
-        "HTML": [ "Mustache" ],
-        "(S)CSS": [ "Bootstrap", "Hint.css", "Animate.css" ]
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "nperez0111",
+        "url": "https://github.com/nperez0111/"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://www.linkedin.com/in/nicholas-perez-215262124/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Vimbly, Inc.",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "October 2018",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
     },
-    "utils": {
-        "editors": [ "Sublime Text", "Brackets" ],
-        "JavaScriptStuff": [ "Yeoman", "Mocha", "Grunt" ],
-        "command-line": {
-            "useful": true,
-            "shell": [ "ZSH", "Bash (on windows)" ],
-            "Windows": "Cmder",
-            "Mac": [ "Hyper", "iTerm 2" ]
-        }
+    {
+      "company": "BudgetWise",
+      "position": "Web Developer",
+      "website": "http://www.budgetwise.io/",
+      "startDate": "August 2018",
+      "endDate": "Present",
+      "summary": "Budgeting Web Application",
+      "highlights": [
+        "Refactor existing React web application to improve performance and readability",
+        "Create visually appealing animations to enhance user expierence",
+        "Offer solutions to the addition of features to a complex production budgeting website"
+      ]
     },
-    "coolness": "Number.MAX_VALUE + 1"
+    {
+      "company": "Cerebra LLC.",
+      "position": "Full-Stack Web Developer",
+      "website": "https://www.cerebra.co/",
+      "startDate": "March 2018",
+      "endDate": "September 2018",
+      "summary": "Cerebra is a cloud-based SaaS that manages your organization's devices remotely",
+      "highlights": [
+        "Design, architect and implement admin console dashboard",
+        "Redesign, and implement landing page to be more visually appealing",
+        "Create, Design and Integrate Node.js backend architecture with Vue.js front end"
+      ]
+    },
+    {
+      "company": "DressCodeRules.com",
+      "position": "Web Developer",
+      "website": "www.dresscoderules.com",
+      "startDate": "November 2017",
+      "endDate": "February 2018",
+      "summary": "The Internet's central authority on dress codes in the workplace and other settings",
+      "highlights": [
+        "Implement design changes to a large scale production e-commerce website built on Wordpress",
+        "Architect a Wordpress specific import tool interface for updating products on the site",
+        "Build tools to efficiently improve the day to day workflow for the CEO"
+      ]
+    },
+    {
+      "company": "Upwork",
+      "position": "Freelancer",
+      "website": "https://www.upwork.com",
+      "startDate": "September 2017",
+      "endDate": "Present",
+      "summary": "Freelancer making various things from web applications to web scrapers",
+      "highlights": [
+        "Help clients achieve their goals through the creation of software",
+        "Develop solutions to complex problems in production websites",
+        "Create web applications to solve domain specific problems "
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of San Francisco",
+      "area": "Computer Science",
+      "studyType": "BS",
+      "startDate": "August 2016",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "JavaScript (Node.js, Browser, ES6)",
+        "HTML5 & CSS3",
+        "Java",
+        "PHP",
+        "C / C++",
+        "Bash",
+        "Python"
+      ]
+    },
+    {
+      "name": "JavaScript Frameworks",
+      "level": "",
+      "keywords": [
+        "React / React Native",
+        "Vue.js / NUXT.js",
+        "Ractive.js",
+        "jQuery",
+        "Express.js",
+        "Puppeteer"
+      ]
+    },
+    {
+      "name": "General Computer Skills",
+      "level": "",
+      "keywords": [
+        "Phone & Computer Hardware and Software Repair",
+        "Building Computers & Home Servers from parts"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Conversational - Mediocre"
+    }
+  ],
+  "interests": [],
+  "references": []
 }
